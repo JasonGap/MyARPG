@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyARPG.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\MyARPG\MyARPG\Intermediate\Build\Win64\x64\MyARPGEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"F:\MyARPG\MyARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyARPG\MyARPG.init.gen.cpp.obj"
+"F:\MyARPG\MyARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyARPG\TP_ThirdPersonCharacter.gen.cpp.obj"
+"F:\MyARPG\MyARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyARPG\TP_ThirdPersonGameMode.gen.cpp.obj"
+"F:\MyARPG\MyARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyARPG\MyARPG.cpp.obj"
+"F:\MyARPG\MyARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyARPG\TP_ThirdPersonCharacter.cpp.obj"
+"F:\MyARPG\MyARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyARPG\TP_ThirdPersonGameMode.cpp.obj"
+"F:\MyARPG\MyARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyARPG\Default.rc2.res"
+/OUT:"F:\MyARPG\MyARPG\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyARPG\UnrealEditor-MyARPG.lib"

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"F:\\MyARPG\\MyARPG\\Source\\MyARPG\\MyARPG.Build.cs",
+		"F:\\MyARPG\\MyARPG\\Source\\MyARPG.Target.cs",
+		"F:\\MyARPG\\MyARPG\\Source\\MyARPGEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

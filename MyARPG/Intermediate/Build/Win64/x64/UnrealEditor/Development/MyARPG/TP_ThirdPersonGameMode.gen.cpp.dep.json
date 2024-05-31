@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\myarpg\\myarpg\\intermediate\\build\\win64\\unrealeditor\\inc\\myarpg\\uht\\tp_thirdpersongamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\myarpg\\myarpg\\intermediate\\build\\win64\\x64\\myarpgeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "f:\\myarpg\\myarpg\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myarpg\\definitions.myarpg.h",
+            "f:\\myarpg\\myarpg\\source\\myarpg\\tp_thirdperson\\tp_thirdpersongamemode.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "f:\\myarpg\\myarpg\\intermediate\\build\\win64\\unrealeditor\\inc\\myarpg\\uht\\tp_thirdpersongamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

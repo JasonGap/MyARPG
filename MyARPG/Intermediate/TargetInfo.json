@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyARPG",
+			"Path": "..\\Source\\MyARPG.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyARPGEditor",
+			"Path": "..\\Source\\MyARPGEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
