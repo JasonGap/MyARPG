@@ -1,6 +1,7 @@
 /I "."
-/I "F:\MyARPG\MyARPG\Intermediate\Build\Win64\UnrealEditor\Inc\MyARPG\UHT"
-/I "F:\MyARPG\MyARPG\Source"
+/I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AIModule\UHT"
+/I "Runtime\AIModule\Classes"
+/I "Runtime\AIModule\Public"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"
@@ -258,6 +259,8 @@
 /I "Developer\PhysicsUtilities\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
+/I "F:\MyARPG\Github\MyARPG\MyARPG\Intermediate\Build\Win64\UnrealEditor\Inc\MyARPG\UHT"
+/I "F:\MyARPG\Github\MyARPG\MyARPG\Source"
 /I "..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT"
 /I "..\Plugins\EnhancedInput\Source\EnhancedInput\Public"
 /external:W0

@@ -47,6 +47,12 @@ class ATP_ThirdPersonCharacter : public ACharacter
 
 public:
 	ATP_ThirdPersonCharacter();
+
+	UFUNCTION(BlueprintCallable, Category = "Character")
+	virtual void HandleDamage(float DamageAmount, const FHitResult& HitInfo, ATP_ThirdPersonCharacter* InstgatorCharacter, AActor* DamageCauser)
+	{
+		OnDamaged(DamageAmount,HitInfo,InstgatorCharacter,DamageCauser);
+	}
 	
 
 protected:
@@ -64,6 +70,9 @@ protected:
 	
 	// To add mapping context
 	virtual void BeginPlay();
+
+	UFUNCTION(BlueprintImplementableEvent)
+	void OnDamaged (float DamageAmount, const FHitResult& HitInfo,ATP_ThirdPersonCharacter* InstigaterCharacter, AActor* DamageCauser);
 
 public:
 	/** Returns CameraBoom subobject **/

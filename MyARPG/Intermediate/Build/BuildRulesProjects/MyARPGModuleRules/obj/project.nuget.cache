@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZnE+UXecjmGuTgg9XhJDynKx1HIkvjVP43skU0PRoDdoLmlMAu9zwCvV+CJJ4AxwJ9SP6QXG6/cT89xmUWKT9A==",
+  "dgSpecHash": "871b+4KPtPlDpJWNaa+51fFUIINW9MXwuXU7a3PC+xrCp0S5ClQsds0QX5dYLLYoZ7wqJ9Dc8Rab5zGz5VgrxA==",
   "success": true,
-  "projectFilePath": "F:\\MyARPG\\MyARPG\\Intermediate\\Build\\BuildRulesProjects\\MyARPGModuleRules\\MyARPGModuleRules.csproj",
+  "projectFilePath": "F:\\MyARPG\\Github\\MyARPG\\MyARPG\\Intermediate\\Build\\BuildRulesProjects\\MyARPGModuleRules\\MyARPGModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SHVFS_Admin\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",
     "C:\\Users\\SHVFS_Admin\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",

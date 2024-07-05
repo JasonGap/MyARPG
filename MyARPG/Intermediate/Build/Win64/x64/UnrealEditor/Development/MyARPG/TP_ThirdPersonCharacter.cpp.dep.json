@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "f:\\myarpg\\myarpg\\source\\myarpg\\tp_thirdperson\\tp_thirdpersoncharacter.cpp",
+        "Source": "f:\\myarpg\\github\\myarpg\\myarpg\\source\\myarpg\\tp_thirdperson\\tp_thirdpersoncharacter.cpp",
         "ProvidedModule": "",
-        "PCH": "f:\\myarpg\\myarpg\\intermediate\\build\\win64\\x64\\myarpgeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "PCH": "f:\\myarpg\\github\\myarpg\\myarpg\\intermediate\\build\\win64\\x64\\myarpgeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
         "Includes": [
-            "f:\\myarpg\\myarpg\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myarpg\\definitions.myarpg.h",
-            "f:\\myarpg\\myarpg\\source\\myarpg\\tp_thirdperson\\tp_thirdpersoncharacter.h",
+            "f:\\myarpg\\github\\myarpg\\myarpg\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myarpg\\definitions.myarpg.h",
+            "f:\\myarpg\\github\\myarpg\\myarpg\\source\\myarpg\\tp_thirdperson\\tp_thirdpersoncharacter.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
@@ -116,7 +116,7 @@
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\um\\imm.h",
             "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\um\\ime_cmodes.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\core\\public\\windows\\postwindowsapi.h",
-            "f:\\myarpg\\myarpg\\intermediate\\build\\win64\\unrealeditor\\inc\\myarpg\\uht\\tp_thirdpersoncharacter.generated.h",
+            "f:\\myarpg\\github\\myarpg\\myarpg\\intermediate\\build\\win64\\unrealeditor\\inc\\myarpg\\uht\\tp_thirdpersoncharacter.generated.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\camera\\cameracomponent.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\cameracomponent.generated.h",
             "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",

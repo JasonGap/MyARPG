@@ -1,4 +1,4 @@
-#include "F:/MyARPG/MyARPG/Intermediate/Build/Win64/x64/MyARPGEditor/Development/Engine/SharedDefinitions.Engine.Cpp20.h"
+#include "F:/MyARPG/Github/MyARPG/MyARPG/Intermediate/Build/Win64/x64/MyARPGEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED
@@ -21,5 +21,9 @@
 #define IMPLEMENT_SIGNING_KEY_REGISTRATION() 
 #define DEPRECATED_FORGAME DEPRECATED
 #define UE_DEPRECATED_FORGAME UE_DEPRECATED
+#define WITH_GAMEPLAY_DEBUGGER_CORE 1
+#define WITH_GAMEPLAY_DEBUGGER 1
+#define WITH_GAMEPLAY_DEBUGGER_MENU 1
+#define AIMODULE_API DLLIMPORT
 #define MYARPG_API DLLEXPORT
 #define ENHANCEDINPUT_API DLLIMPORT

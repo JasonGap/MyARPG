@@ -8047,11 +8047,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MyARPG\\MyARPG\\Intermediate\\Build\\BuildRulesProjects\\MyARPGModuleRules\\MyARPGModuleRules.csproj",
+      "projectUniqueName": "F:\\MyARPG\\Github\\MyARPG\\MyARPG\\Intermediate\\Build\\BuildRulesProjects\\MyARPGModuleRules\\MyARPGModuleRules.csproj",
       "projectName": "MyARPGModuleRules",
-      "projectPath": "F:\\MyARPG\\MyARPG\\Intermediate\\Build\\BuildRulesProjects\\MyARPGModuleRules\\MyARPGModuleRules.csproj",
+      "projectPath": "F:\\MyARPG\\Github\\MyARPG\\MyARPG\\Intermediate\\Build\\BuildRulesProjects\\MyARPGModuleRules\\MyARPGModuleRules.csproj",
       "packagesPath": "C:\\Users\\SHVFS_Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\MyARPG\\MyARPG\\Intermediate\\Build\\BuildRulesProjects\\MyARPGModuleRules\\obj\\",
+      "outputPath": "F:\\MyARPG\\Github\\MyARPG\\MyARPG\\Intermediate\\Build\\BuildRulesProjects\\MyARPGModuleRules\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SHVFS_Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8098,7 +8098,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -8107,7 +8108,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\ThirdParty\\DotNet\\6.0.302\\windows\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -39,6 +39,12 @@
     <ClInclude Include="..\..\Source\MyARPG\MyARPG.h">
       <Filter>Source\MyARPG</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\MyARPG\MyPawnSensingComponent.cpp">
+      <Filter>Source\MyARPG</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyARPG\MyPawnSensingComponent.h">
+      <Filter>Source\MyARPG</Filter>
+    </ClInclude>
     <Filter Include="Source\MyARPG\TP_ThirdPerson">
       <UniqueIdentifier>{575BDA66-5349-320A-BA40-5A8BEC62BE40}</UniqueIdentifier>
     </Filter>
